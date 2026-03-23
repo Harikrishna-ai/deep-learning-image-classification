@@ -1,2 +1,7 @@
-# deep-learning-image-classification
-Deep learning project for image classification using CNN and transfer learning
+## Real-World Applications
+- Medical image classification
+- Face recognition systems
+- Automated quality inspection
+
+## Results
+(Add screenshots of accuracy/loss here)
